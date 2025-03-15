@@ -1,4 +1,4 @@
-This is a sample of a good README.md file that can be used when describing a project.  You can change the headings to fit your needs, but the idea is to provide a summary of the project, the files used, programs written and how to execute the program.  Think of this as documentation.
+
 
 ## Table of contents
 
@@ -15,11 +15,11 @@ This is a sample of a good README.md file that can be used when describing a pro
 
 ## Description
 
-Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project.
+This is my code and I am practicing. 
 
 ## How to Run Program 
 
-Explain here how you would run the program and what files need to be available. 
+This is just a practice
 ```text
 Hello_World/
 └── 
@@ -32,7 +32,7 @@ Hello_World/
 
 ## Files Used 
 
-- Did you use any datafiles?  
+- 
 - List filenames
 - Where you got them 
 - What is contained within the data files?
@@ -43,7 +43,6 @@ Hello_World/
   
 ## Additional Documentation
 
-No additional documentation at this time.  Here is some **BOLD** text 
 
 
 ## Versioning
